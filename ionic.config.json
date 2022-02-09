@@ -1,0 +1,31 @@
+{
+  "projects": {
+    "app": {
+      "name": "app",
+      "integrations": {
+        "capacitor": {},
+        "cordova": {}
+      },
+      "type": "angular",
+      "root": "projects/app"
+    },
+    "app-company": {
+      "name": "app-company",
+      "integrations": {
+        "capacitor": {},
+        "cordova": {}
+      },
+      "type": "angular",
+      "root": "projects/app-company"
+    },
+    "ionic-tabs-navigation": {
+      "name": "ionic-tabs-navigation",
+      "integrations": {},
+      "type": "angular",
+      "root": "projects\\app-company\\src\\app\\ionic-tabs-navigation"
+    }
+  },
+  "integrations": {
+    "capacitor": {}
+  }
+}
